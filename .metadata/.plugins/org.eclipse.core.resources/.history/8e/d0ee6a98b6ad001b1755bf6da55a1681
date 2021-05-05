@@ -23,7 +23,4 @@ h1{
 .navbar .navbar-header .navbar-brand{
 	color:white;
 }
-.navbar-default .navbar-toggle .icon-bar{
-	background-color:white;
-}
 
